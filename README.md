@@ -2,7 +2,9 @@
   <img src="assets/logo.svg" width="96" alt="dsh-market logo">
 </p>
 
-# dsh-market
+# dsh-market-moe4all
+
+> MoE4All-maintained edition of `dshmarket`. See [UPSTREAM.md](UPSTREAM.md) for the exact source checkpoint, attribution, and purpose of this independent repository.
 
 English | [中文](README.zh.md)
 

@@ -9,7 +9,7 @@ import { mountMarketRoutes, type MarketConfig, type MarketHost } from './routes.
 import { installMarketSettings } from './settings.ts'
 import type { AgentsServiceLike } from './agents.ts'
 
-export const name = 'dsh-market'
+export const name = 'dsh-market-moe4all'
 
 /** Optional cordis.yml configuration; profile defaults to `web`. */
 export type Config = Partial<Pick<MarketConfig, 'profile' | 'allowRestart' | 'maxSnapshots'>>

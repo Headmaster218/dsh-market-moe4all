@@ -1,16 +1,24 @@
 {
-  "name": "dshmarket",
-  "description": "Visual plugin market inside DeepSeek Harness — browse, search, and one-click install community plugins. · DSH 可视化插件市场：逛一逛，点一下，装好。",
-  "version": "1.45.1",
+  "name": "dsh-market-moe4all",
+  "description": "MoE4All edition of the visual plugin market for DeepSeek Harness",
+  "version": "1.45.1-moe4all.1",
   "type": "module",
   "main": "lib/index.js",
   "types": "lib/types/index.d.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsh-market/dsh-market.git"
+    "url": "git+https://github.com/Headmaster218/dsh-market-moe4all.git"
   },
-  "homepage": "https://dshmarket.com",
+  "homepage": "https://github.com/Headmaster218/dsh-market-moe4all#readme",
+  "bugs": {
+    "url": "https://github.com/Headmaster218/dsh-market-moe4all/issues"
+  },
+  "moe4all": {
+    "upstream": "dshmarket@1.45.1",
+    "repository": "https://github.com/dsh-market/dsh-market",
+    "commit": "1664caec99219b4902f1686e2e34614815d38346"
+  },
   "keywords": [
     "deepseek",
     "harness",

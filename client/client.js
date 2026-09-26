@@ -1,4 +1,4 @@
-window.__ModuleLoader__.load({ id: "dshmarket", factory: (require) => {
+window.__ModuleLoader__.load({ id: "dsh-market-moe4all", factory: (require) => {
 
 
 		var module = { exports: {} };

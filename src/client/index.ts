@@ -78,7 +78,7 @@ interface MarketClientContext {
   theme: ThemeService
 }
 
-export const name = 'dsh-market'
+export const name = 'dsh-market-moe4all'
 // 'theme' is safe to require: ui-layout (mandatory in every web composition)
 // already hard-depends on it. This cordis's object-form inject means
 // intercept config, NOT {required,optional} — do not use it here.
